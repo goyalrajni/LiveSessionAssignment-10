@@ -20,13 +20,13 @@ Live session Assignment-10
 #####• Plot distributions of number impressions and click-through-rate (CTR = click/impression) for the age groups
 #####• One more plot you think which is important to look at.
 
-File Structure
+##File Structure
 
--LiveSessionAssignment-10.html
--LiveSessionAssignment-10.RMD
--LiveSessionAssignment-10.R
--LiveSessionAssignment-10.MD
--LiveSessionAssignment-10_files/figure_html
+####-LiveSessionAssignment-10.html
+####-LiveSessionAssignment-10.RMD
+####-LiveSessionAssignment-10.R
+####-LiveSessionAssignment-10.MD
+####-LiveSessionAssignment-10_files/figure_html
 
 
 
